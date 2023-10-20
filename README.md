@@ -9,7 +9,10 @@ I'm dedicated to building high-performance applications and creating intuitive u
 🎓 Leadership Experience:
 I've also had the privilege of serving as a leader and captain during my time in computer school.
 
-Let's connect and learn together as we grow in the world of technology!
+Let's connect and learn together as we grow in the of technology!
+  https://www.linkedin.com/in/nahima-madey-b2a214287
+  https://twitter.com/NahimaMadey12
+
 
 
 <!---
