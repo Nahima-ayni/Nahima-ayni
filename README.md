@@ -1,8 +1,6 @@
 👋🏾 Hi there,
 I'm Nahima, a passionate software engineer. 
 
-🌱 Currently, I'm enrolled in a 12-month Software Engineering course with the African Leadership Group (ALx) to further enhance my programming skills.
-
 🚀 My Passion:
 I'm dedicated to building high-performance applications and creating intuitive user interfaces that deliver exceptional user experiences.
 
